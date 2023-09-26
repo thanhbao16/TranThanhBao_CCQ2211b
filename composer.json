@@ -1,0 +1,11 @@
+{
+    "name":"tranthanhbao/shop-aothun",
+    "description": "Xây dựng website bán hàng- Thay Loi day",
+    "autoload":{
+        "psr-4":{
+            "src\\":"application/"
+        }
+    },
+    "require":{}
+
+}

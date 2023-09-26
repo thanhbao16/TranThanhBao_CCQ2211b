@@ -1,0 +1,12 @@
+.bg-footer {
+  background-color: black;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
